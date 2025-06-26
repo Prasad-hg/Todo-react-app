@@ -18,7 +18,7 @@ A responsive and interactive Todo List application built using **React.js**. Thi
 
 ## 📸 Screenshots
 
-> Add your own screenshots in the `/screenshots` folder and update these links.
+
 
 | Desktop View                             |
 |------------------------------------------|
@@ -82,8 +82,8 @@ CSS handles mobile responsiveness via @media queries and flex-wrap
 
 🙋‍♂️ About Me
     Prasad H G
-🔗 GitHub(https://github.com/Prasad-hg)
-🔗 linkdin(https://www.linkedin.com/in/prasad-hg/)
+🔗 [GitHub](https://github.com/Prasad-hg)
+🔗 [linkdin](https://www.linkedin.com/in/prasad-hg/)
 📧 prasadhg2003@gmail.com
 📘 LeetCode
 🌐 Aspiring Software Developer | MERN Stack Learner | DSA Enthusiast
