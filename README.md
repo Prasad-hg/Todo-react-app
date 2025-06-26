@@ -4,6 +4,11 @@ A responsive and interactive Todo List application built using **React.js**. Thi
 
 ---
 
+## 🌐 Live Demo
+
+▶️ [Click here to view the live app](https://Prasad-hg.github.io/Todo-react-app)
+
+---
 ## 🚀 Features
 
 - ✅ Add new tasks
