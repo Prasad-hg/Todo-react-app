@@ -22,7 +22,7 @@ A responsive and interactive Todo List application built using **React.js**. Thi
 
 | Desktop View                             |
 |------------------------------------------|
-| ![Desktop](./screenshots/desktop.png)    | 
+| ![Desktop](./screenshots/Desktop.png)    | 
 
 ---
 
