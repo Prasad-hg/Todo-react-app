@@ -58,7 +58,7 @@ A responsive and interactive Todo List application built using **React.js**. Thi
 
 Clone the repo and install dependencies:
 
-```bash
+
 git clone https://github.com/Prasad-hg/Todo-react-app.git
 cd Todo-react-app
 npm install
